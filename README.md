@@ -56,5 +56,5 @@ Screenshots
 
 Laravel Github2
 ------
-Link: https://gitlab.com/lucas240596/laravel-github2
-Neste outro projeto foi desenvolvido de forma parecida com este, com diferença que as chamadas HTTP foram feitas no front-end utilizando o **fetch** do **JavaScript**, desta forma as páginas não serão recarregas com as ações que são feitas.
+Link: https://gitlab.com/lucas240596/laravel-github2<br>
+Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no front-end utilizando o **fetch** do **JavaScript**.
