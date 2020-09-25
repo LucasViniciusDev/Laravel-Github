@@ -3,7 +3,9 @@ Laravel Github
 
 Descrição
 ------
-Projeto desenvolvido em **Laravel** utilizando a API do **Github**. Para a criação das views foi utilizado o Blade Template do Laravel e o **Bootstrap** e **JQuery**, você poderá listar os usuários do **Github** e buscar pelo nome de usuário, e ver os repositórios dos usuários, também poderá clonar os projetos.
+Você poderá listar os usuários do **Github**, buscar pelo nome de usuário, e ver os repositórios dos usuários, também poderá clonar os projetos.
+
+Projeto foi desenvolvido em **Laravel** utilizando a API do **Github**. Para a criação das views foi utilizado o **Blade Template** do Laravel, **Bootstrap** e **JQuery**.
 
 Para as requisições HTTP foi utilizado o **CURL**, foi utilizado o design pattern **Repository**.
 
@@ -28,7 +30,7 @@ npm run dev
 
 Configurando as variaveis de ambiente
 ------
-Para definir as variaveis de ambiente, abra o arquivo **.env.example** copie todo o conteudo e crie um arquivo na raiz do projeto com nome **.env** e cole o conteúdo dentro deste arquivo.
+Para configurar as variaveis de ambiente, abra o arquivo **.env.example** e copie todo o conteudo, crie um novo arquivo na raiz do projeto com nome **.env** e cole o conteúdo dentro deste arquivo.
 
 Para gerar o **APP_KEY** utilize o comando:
 ```bash
