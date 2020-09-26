@@ -51,12 +51,19 @@ Resultado
 
 Screenshots
 
-![Alt text](/../-/raw/master/screenshots/001.png?raw=true "001")
-![Alt text](/../-/raw/master/screenshots/002.png?raw=true "002")
-![Alt text](/../-/raw/master/screenshots/003.png?raw=true "003")
-![Alt text](/../-/raw/master/screenshots/004.png?raw=true "004")
+001
+![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/001.PNG "001")
+
+002
+![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/002.PNG "002")
+
+003
+![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/003.PNG "003")
+
+004
+![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/004.PNG "004")
 
 Laravel Github2
 ------
-Link: https://gitlab.com/lucas240596/laravel-github2<br>
-Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no **front-end** utilizando o **fetch** do **JavaScript**.
+Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no **front-end** utilizando o **fetch** do **JavaScript**.<br>
+Link do projeto: https://github.com/LucasViniciusDev/Laravel-Github2
