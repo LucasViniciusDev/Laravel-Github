@@ -51,16 +51,16 @@ Resultado
 
 Screenshots
 
-001
+Listagem de Usuários
 ![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/001.PNG "001")
 
-002
+Pesquisando por nome do usuário
 ![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/002.PNG "002")
 
-003
+Repositórios do usuário
 ![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/003.PNG "003")
 
-004
+Clonar repositório
 ![Alt text](https://github.com/LucasViniciusDev/Laravel-Github/blob/master/screenshots/004.PNG "004")
 
 Laravel Github2
